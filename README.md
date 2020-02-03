@@ -10,4 +10,4 @@
 
 
 
-https://www.youtube.com/watch?v=m-8v9dU7vgI&list=PLBq4eDBs9-fbAFHBVCC05xBC9j28lhNX0&index=4&t=581s
+Sursa: https://www.youtube.com/watch?v=m-8v9dU7vgI&list=PLBq4eDBs9-fbAFHBVCC05xBC9j28lhNX0&index=4&t=581s
