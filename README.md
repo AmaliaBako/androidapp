@@ -5,8 +5,7 @@
 ###### Descriere: trebuie sa apesi butonul cu numarul mai mare pentru a strange un punct, altfel pierzi un punct. Trebuie sa strangi 5 puncte pentru a castiga.
 ###### Pe ce sistem de operare ruleaza: Android
 ###### Tehnologii folosite (inclusiv biblioteci externe): Android Studio, Java.
-
-Inline-style: 
+ 
 ![alt text](https://github.com/AmaliaBako/androidapp/imgPhone.png "Game Image")
 
 
