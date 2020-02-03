@@ -6,7 +6,7 @@
 ###### Pe ce sistem de operare ruleaza: Android
 ###### Tehnologii folosite (inclusiv biblioteci externe): Android Studio, Java.
  
-![alt text](https://github.com/AmaliaBako/androidapp/imgPhone.png "Game Image")
+![alt text](https://github.com/AmaliaBako/androidapp/blob/master/imgPhone.png "Game Image")
 
 
 
